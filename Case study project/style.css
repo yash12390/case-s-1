@@ -1,0 +1,22 @@
+
+body {
+  text-align: center;
+  
+}
+body {
+    background-image: url('pexels-roberto-shumski-1903702.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.title {
+  font-family:courier,arial,helvetica;
+}
+
+.section_1{
+  font-family:courier,arial,helvetica;
+
+}
+.try_1{
+  font-family: 'Yusei Magic', sans-serif;
+}
